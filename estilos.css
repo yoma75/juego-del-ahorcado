@@ -6,6 +6,7 @@ body {
   background-size: cover;
   font-family: 'Nosifer', cursive;
   min-height: 100vh;
+  color: rgb(252, 252, 252);
 }
 
 header {
@@ -25,7 +26,7 @@ main {
   width: 80%;
   margin: 110px auto;
   padding: 20px;
-  background: rgba(255, 255, 255, 0.356);
+  background: rgba(53, 51, 51, 0.356);
   display: flex;
   gap: 30px;
   border-radius: 5px;
@@ -57,7 +58,7 @@ button:hover {
 #palabra_a_adivinar span {
   vertical-align: bottom;
   font-size: 2em;
-  border-bottom: 3px solid rgb(7, 45, 112);
+  border-bottom: 3px solid #ff8912;
   width: 30px;
   text-align: center;
   margin-right: 6px;
